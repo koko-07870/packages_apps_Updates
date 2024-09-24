@@ -31,6 +31,6 @@ public final class Constants {
     static final String PROP_BUILD_VERSION = "net.pixelos.version";
     static final String OTA_URL = "https://raw.githubusercontent.com/koko-07870/PixelOS_OTA/main/a52q.json";
     static final String MAINTAINER_URL = "https://github.com/koko-07870";
-    static final String DOWNLOAD_WEBPAGE_URL = "https://pixelos.net/download/%s";
+    static final String DOWNLOAD_WEBPAGE_URL = "https://t.me/posa52qq";
     static final String EXPORT_PATH = "PixelOS-Updates/";
 }
